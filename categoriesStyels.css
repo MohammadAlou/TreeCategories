@@ -1,0 +1,17 @@
+ul,
+#myUL {
+  list-style-type: none;
+}
+#myUL {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
